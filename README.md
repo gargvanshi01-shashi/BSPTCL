@@ -1,2 +1,0 @@
-# passportsizephoto
-photo
